@@ -1,4 +1,4 @@
-# Hello world, I'm Gabriel Grabalos! 👋
+# Hello world, I'm Gabriel Grabalos! 👋😉
 ### Passionate Developer and Technology Enthusiast Building Amazing Software.
 
 ## 🚀 About Me
