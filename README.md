@@ -23,7 +23,7 @@ Just like technology never stops advancing, I never stop learning. While I study
 
 ## 📫 How to Reach Me
 
-You can reach out to me via email at [bielgraba@gmail.com](mailto:bielgraba@gmail.com) or connect with me on LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername).
+You can reach out to me via email at [bielgraba@gmail.com](mailto:bielgraba@gmail.com)!
 
 ## ✨ Fun Facts
 
