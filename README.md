@@ -14,7 +14,7 @@ I'm a passionate developer and technology enthusiast with a love for building am
 
 ## 🔭 Projects
 
-- [Project 1](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful an interactive website to teatch children about our solar system.
+- [Solar Sytem Website](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful an interactive website to teatch children about our solar system.
 
 ## 🌱 Currently Learning
 
