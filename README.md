@@ -7,7 +7,7 @@ I'm a passionate developer and technology enthusiast with a love for building am
 
 ## 💻 Technologies
 
-- Programming Languages: Python, JavaScript, TypeScript, Java, C#, C, C++
+- Programming Languages: JavaScript, TypeScript, Java, C#, C, C++, Python
 - Front-end Development: HTML5, CSS3, React
 - Back-end Development: Node.js, Express.js, ASP.NET Core
 - Databases: MySQL, MongoDB, Firebase
