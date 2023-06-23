@@ -16,7 +16,7 @@ I'm a passionate developer and technology enthusiast with a love for building am
 ## 🔭 Projects
 
 - [Solar System Website](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system.
-- [Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe): A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀)
+- [Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe): A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀) [Try it out!](https://gabrielgrabalos.github.io/Procedural-Universe/)
 
 ## 🌱 Currently Learning
 
