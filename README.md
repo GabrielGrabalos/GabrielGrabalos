@@ -17,6 +17,7 @@ I'm a passionate developer and technology enthusiast with a love for building am
 
 - [Solar System Website](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system.
 - [Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe): A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀) [Try it out!](https://gabrielgrabalos.github.io/Procedural-Universe/)
+- [Achei Uma Criatura](https://github.com/GabrielGrabalos/Achei-Uma-Criatura): A website for people to explore their creativity by creating amazing creatures and adding them to the big book of found creatures called Achei Uma Critura (I found a creature)! (WIP 💪)
 
 ## 🌱 Currently Learning
 
