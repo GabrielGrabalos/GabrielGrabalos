@@ -34,13 +34,7 @@ You can reach out to me via email at [bielgraba@gmail.com](mailto:bielgraba@gmai
 - I have a great love for storytelling and creating stories. I believe this passion helps me create apps that feel like a journey!
 - I once practiced Kung-Fu when I was 8 years old. Didn't last much, but it definitely happened. 〜(￣▽￣〜)
 
-## 📊 My Contributions
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielGrabalos&show_icons=true&theme=radical)
-
-## 🌟 GitHub Trophies
-
-[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GabrielGrabalos&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 💕 Thanks!
 
 Thanks for your interest in me!
 Hope to see you again. 😊
