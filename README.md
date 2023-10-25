@@ -7,8 +7,8 @@ I'm a passionate developer and technology enthusiast with a love for building am
 
 ## 💻 Technologies
 
-- Programming Languages: JavaScript, TypeScript, Java, C#, C, C++, Python
-- Front-end Development: HTML5, CSS3, React
+- Programming Languages: JavaScript, TypeScript, Java, C#, C, C++, Python, Kotlin, Rust
+- Front-end Development: HTML5, CSS3, React, Android
 - Back-end Development: Node.js, Express.js, ASP.NET Core
 - Databases: MySQL, MongoDB, Firebase
 - Version Control: Git, GitHub
@@ -32,7 +32,7 @@ You can reach out to me via email at [bielgraba@gmail.com](mailto:bielgraba@gmai
 - I am a lover of lasagna and enjoy cooking it.
 - I participated and won a short-film competition with the short film "Psicólogo." The theme was free!
 - I have a great love for storytelling and creating stories. I believe this passion helps me create apps that feel like a journey!
-- I once practiced Kung-Fu when I was 8 years old, but it happened. 〜(￣▽￣〜)
+- I once practiced Kung-Fu when I was 8 years old. Didn't last much, but it definitely happened. 〜(￣▽￣〜)
 
 ## 📊 My Contributions
 
