@@ -10,7 +10,7 @@ I'm a passionate developer and technology enthusiast with a love for building am
 - Programming Languages: JavaScript, TypeScript, Java, C#, C, C++, Python, Kotlin, Rust
 - Front-end Development: HTML5, CSS3, React, Android
 - Back-end Development: Node.js, Express.js, ASP.NET Core
-- Databases: MySQL, MongoDB, Firebase
+- Databases: MySQL, SQLServer, MongoDB, Firebase
 - Version Control: Git, GitHub
 
 ## 🔭 Projects
