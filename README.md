@@ -45,7 +45,9 @@ I love to explore the limits of programming and to discover new concepts, as wel
 
 - [Solar System Website](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system.
 - [Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe): A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀) [Try it out!](https://gabrielgrabalos.github.io/Procedural-Universe/)
-- [Achei Uma Criatura](https://github.com/GabrielGrabalos/Achei-Uma-Criatura): A website for people to explore their creativity by creating amazing creatures and adding them to the big book of found creatures called Achei Uma Critura (I found a creature)! (WIP 💪)
+- [Huffman Compressor](https://github.com/GabrielGrabalos/Huffman-Compressor): A file compressor that uses the Huffman algorithm to make the compression, implemented in C++!
+
+- I still have a lot more comming up soon 🤫!
 
 ## 🌱 Currently Learning
 
