@@ -3,9 +3,11 @@
 
 ## 🚀 About Me
 
-I'm a technology enthusiast and passionate developer with a love for building amazing software to make my imagination come true.<br>
-I enjoy working on both front-end and back-end development and have experience with various programming languages and frameworks.<br>
-I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problem.
+- I'm a technology enthusiast and passionate developer with a love for building amazing software to make my imagination come true.<br>
+
+- I enjoy working on both front-end and back-end development and have experience with various programming languages and frameworks.<br>
+
+- I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
 
 ## 💻 Technologies
 
