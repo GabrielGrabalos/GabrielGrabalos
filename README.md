@@ -45,6 +45,7 @@
 
 ## 🔭 Projects
 
+- [Pixelpex](https://github.com/GabrielGrabalos/Pixelpex): A web game to draw pixel art on an **infinite** map with friends and the rest of the world!
 - [Solar System Website](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system.
 - [Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe): A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀) [Try it out!](https://gabrielgrabalos.github.io/Procedural-Universe/)
 - [Huffman Compressor](https://github.com/GabrielGrabalos/Huffman-Compressor): A file compressor that uses the Huffman algorithm to make the compression, implemented in C++!
