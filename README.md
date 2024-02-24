@@ -62,8 +62,8 @@ You can reach out to me via email at [bielgraba@gmail.com](mailto:bielgraba@gmai
 
 ## ✨ Fun Facts
 
-- I am a lover of lasagna and enjoy cooking it.
-- I participated and won two short-film competition with the short-films [All The Times I Remembered About You Guys](https://youtu.be/RQLGLG2uapU?si=OYBTaU1oQW1rECSM) and [Psicólogo](https://youtu.be/cjlK2-Wxx9k?si=zMLzzGmjQ2eIJKK2)! The theme was free! (Subtitles available 😁)
+- I am a lover of lasagna and enjoy cooking it!
+- I participated and won two short-film competition with the short-films [All The Times I Remembered About You Guys](https://youtu.be/RQLGLG2uapU?si=OYBTaU1oQW1rECSM) and [Psicólogo](https://youtu.be/cjlK2-Wxx9k?si=zMLzzGmjQ2eIJKK2)! The theme was free! **(Subtitles available 😁)**
 - I have a great love for storytelling and creating stories. I believe this passion helps me create apps that feel like a journey!
 - I once practiced Kung-Fu when I was 8 years old. Didn't last much, but it definitely happened. 〜(￣▽￣〜)
 
