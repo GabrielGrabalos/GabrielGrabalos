@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 
-- I'm a technology enthusiast and passionate developer with a love for building amazing software to make my imagination come true.<br>
+- 🌈 I'm a technology enthusiast and passionate developer with a love for building amazing software to make my imagination come true.<br>
 
-- I enjoy working on both front-end and back-end development and have experience with various programming languages and frameworks.<br>
+- 🔗 I enjoy working on both front-end and back-end development and have experience with various programming languages and frameworks.<br>
 
-- I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
+- 🤯 I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
 
 ## 💻 Technologies
 
@@ -54,7 +54,7 @@
 
 ## 🌱 Currently Learning
 
-Just like technology never stops advancing, I never stop learning. While I study what my school provides me, I also like to explore everything I can. Currently, I'm interested in artificial intelligence, especially generative models, and cloud computing platforms like Firebase, AWS, and Azure for developing secure database-driven applications.
+Just like technology never stops advancing, I **never stop learning**. While I study what my school provides me, I also like to explore everything I can. Currently, I'm interested in artificial intelligence, especially generative models, and cloud computing platforms like Firebase, AWS, and Azure for developing secure database-driven applications.
 
 ## 📫 How to Reach Me
 
@@ -62,10 +62,10 @@ You can reach out to me via email at [bielgraba@gmail.com](mailto:bielgraba@gmai
 
 ## ✨ Fun Facts
 
-- I am a lover of lasagna and enjoy cooking it!
-- I participated and won two short-film competition with the short-films [All The Times I Remembered About You Guys](https://youtu.be/RQLGLG2uapU?si=OYBTaU1oQW1rECSM) and [Psicólogo](https://youtu.be/cjlK2-Wxx9k?si=zMLzzGmjQ2eIJKK2)! The theme was free! **(Subtitles available 😁)**
-- I have a great love for storytelling and creating stories. I believe this passion helps me create apps that feel like a journey!
-- I once practiced Kung-Fu when I was 8 years old. Didn't last much, but it definitely happened. 〜(￣▽￣〜)
+- 🍲 I am a lover of **lasagna** and enjoy cooking it!
+- 🎥 I participated and won two **short-film** competition with the short-films [All The Times I Remembered About You Guys](https://youtu.be/RQLGLG2uapU?si=OYBTaU1oQW1rECSM) and [Psicólogo](https://youtu.be/cjlK2-Wxx9k?si=zMLzzGmjQ2eIJKK2)! The theme was free! **(Subtitles available 😁)**
+- 📖 I have a great love for **storytelling** and creating stories. I believe this passion helps me create apps that feel like a journey!
+- 🥷 I once practiced **Kung-Fu** when I was 8 years old. Didn't last much, but it definitely happened. **〜(￣▽￣〜)**
 
 ## 💕 Thanks!
 
