@@ -54,7 +54,7 @@
 
 ## 🌱 Currently Learning
 
-Just like technology never stops advancing, I **never stop learning**. While I study what my school provides me, I also like to explore everything I can. Currently, I'm interested in artificial intelligence, especially generative models, and cloud computing platforms like Firebase, AWS, and Azure for developing secure database-driven applications.
+Just like technology never stops advancing, I **never stop learning**. While I study what my school provides me, I also like to explore everything I can. Currently, I'm interested in artificial intelligence, especially generative models, and cloud computing platforms like Firebase, AWS, and Azure for developing secure database-driven applications. Also, I'm just waiting for the opportunity to start practicing Spring Boot! 🍃
 
 ## 📫 How to Reach Me
 
