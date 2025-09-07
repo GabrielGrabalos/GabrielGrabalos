@@ -50,10 +50,10 @@
 
 ## 🔭 Projects
 
-- 🎨 [Pixelpex](https://github.com/GabrielGrabalos/Pixelpex): A web game to draw pixel art on an **infinite** map with friends and the rest of the world! [Try it out!](https://thepixelpex.web.app)
-- 🪐 [Solar System Website](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system. [Try it out!](https://solartorio.web.app)
-- 👩‍🚀 [Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe): A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀) [Try it out!](https://gabrielgrabalos.github.io/Procedural-Universe/)
-- 🧠 [Huffman Compressor](https://github.com/GabrielGrabalos/Huffman-Compressor): A file compressor that uses the Huffman algorithm to make the compression, implemented in C++!
+- 🐝 **[MyHabitStreak](https://github.com/GabrielGrabalos/MyHabitStreak)**: A mobile app made with flutter to help you develop new habits. The app has cute little friends to help you and is [available now at Play Store](https://play.google.com/store/apps/details?id=com.genazemildo.my_habit_streak)!
+- 🪐 **[Solar System Website](https://github.com/GabrielGrabalos/Solar-System-Website)**: A beautiful and interactive website to teach children about our solar system. [Try it out!](https://solartorio.web.app)
+- 👩‍🚀 **[Procedural Universe](https://github.com/GabrielGrabalos/Procedural-Universe)**: A website that creates a infinite universe that is consistent (I'm still going to expand the idea 👀) [Try it out!](https://gabrielgrabalos.github.io/Procedural-Universe/)
+- 🧠 **[Huffman Compressor](https://github.com/GabrielGrabalos/Huffman-Compressor)**: A file compressor that uses the Huffman algorithm to make the compression, implemented in C++!
 
 - I still have a lot more comming up soon 🤫!
 
